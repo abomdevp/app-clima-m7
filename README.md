@@ -1,39 +1,23 @@
-# app-clima
+Nombre del proyecto
+App de Clima SPA con Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+Descripción
 
-## Recommended IDE Setup
+Este proyecto recrea una aplicación de clima como una SPA utilizando Vue 3 y Vue Router. La aplicación permite visualizar un listado de lugares con su clima actual y navegar a una vista de detalle donde se muestran el pronóstico de varios días y estadísticas semanales.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Tecnologías utilizadas
 
-## Recommended Browser Setup
+- Vue 3
+- Vue Router 4
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+1. Instalar dependencias:
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
+3. Ejecutar el proyecto:
 
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# app-clima-m7
